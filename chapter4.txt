@@ -1,6 +1,11 @@
 <<<<<<< HEAD
 I have little idea what I am typing here because I'm just a weirdo.
+<<<<<<< HEAD
 =======
 I have little idea what I am typing here because I'm just a weirdo.
 Let's try this push to origin again to test that the branch makes it there
+>>>>>>> alien-plot
+=======
+Let's try this push to origin again to test that the branch makes it there.
+Why is there a head tag in this merge?
 >>>>>>> alien-plot
